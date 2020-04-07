@@ -1,0 +1,12 @@
+With Python you can:
+-create a wonderfull program
+-create neural network
+-machine learning
+-create programming soft for robotics
+-create computer intelligence
+-create and analyz data base
+-web – development
+-create games with PyGame
+-vizualiztion data
+-data science
+-programming space aparats
